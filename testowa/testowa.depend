@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1498028919 source:c:\users\lenovo\desktop\testowa\device.cpp
+	"Device.hpp"
+	<sstream>
+
+1498028489 c:\users\lenovo\desktop\testowa\device.hpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<ctime>
+	<list>
+	<unistd.h>
+	<vector>
+	<map>
+	"Sensor.hpp"
+
+1498028564 c:\users\lenovo\desktop\testowa\sensor.hpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<ctime>
+	<list>
+	<unistd.h>
+	<vector>
+	<map>
+	"Device.hpp"
+
+1498028958 source:c:\users\lenovo\desktop\testowa\main.cpp
+	"System.hpp"
+	<windows.h>
+
+1498028640 c:\users\lenovo\desktop\testowa\system.hpp
+	"Device.hpp"
+	"Sensor.hpp"
+
+1498029114 source:c:\users\lenovo\desktop\testowa\sensor.cpp
+	"Sensor.hpp"
+	<sstream>
+
+1498029061 source:c:\users\lenovo\desktop\testowa\system.cpp
+	"System.hpp"
+	<windows.h>
+
